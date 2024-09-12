@@ -9,8 +9,6 @@
 
 Welcome to my personal CodeChef Contest Solutions repository! This is where I share my daily solutions for the CodeChef problems. I'm committed to updating this repository regularly with new solutions as I tackle the daily challenges. It's not just a coding journey; it's a commitment to continuous improvement.
 
-Feel free to explore the solutions, provide feedback, and use them as a reference to enhance your own coding skills.
-
 
 ## Contribution
 
