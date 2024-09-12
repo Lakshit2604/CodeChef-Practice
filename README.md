@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Lakshit2604/CodeChef-Practice">
-    <img src="https://github.com/Lakshit2604/CodeChef-Practice/blob/main/content/codechef.png" height="128">
+    <img src="https://github.com/Lakshit2604/CodeChef-Practice/blob/main/content/CodeChef.jpg" height="128">
   </a>
   <h1 align="center">CodeChef Practice</h1>
 </p>
