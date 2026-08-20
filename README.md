@@ -1,24 +1,34 @@
-<p align="center">
-  <a href="https://github.com/Lakshit2604/CodeChef-Practice">
-    <img src="https://github.com/Lakshit2604/CodeChef-Practice/blob/main/content/CodeChef.jpg" height="128">
-  </a>
-  <h1 align="center">CodeChef Practice</h1>
-</p>
+# Competitive Programming Practice
+
+This repository contains solutions I've submitted, showcasing my competitive programming journey.
 
 ## Overview
 
-Welcome to my personal CodeChef Contest Solutions repository! This is where I share my daily solutions for the CodeChef problems. I'm committed to updating this repository regularly with new solutions as I tackle the daily challenges. It's not just a coding journey; it's a commitment to continuous improvement.
+A collection of my solutions across major competitive programming platforms. I use this space to practice algorithmic problem-solving, experiment with different approaches, and document my progress.
 
+## What's Inside
 
-## Contribution
+- **LeetCode**: Daily challenge questions and problem-solving practice
+- **Codeforces**: Contest problems and solutions
+- **CodeChef**: Contest problems and solutions
 
-If you have a better solution or want to suggest improvements, feel free to open an issue or submit a pull request. Contributions are always welcome!
+## Getting Started
 
+Browse through the directories to find solutions by platform. Each solution typically includes the problem approach and explanation.
 
-Happy learning and coding!
+## Language
+
+**Primary Language**: C++
+
+## Purpose
+
+This repository serves as a portfolio of my competitive programming progress and problem-solving skills across different platforms and difficulty levels.
 
 ---
 
-If you find this repository useful, don't forget to star it! ⭐️
+Feel free to explore, learn, and provide feedback!
+<br>
+Happy Competitive Coding !
 
-### Written by [Lakshit](https://github.com/Lakshit2604)
+### Written By Lakshit Gupta
+
